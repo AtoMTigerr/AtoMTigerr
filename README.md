@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelDylst
 - 👀 I’m interested in Data Science // Full Stack
-- 🌱 I’m currently learning PostPreSQL, Python, Javascript 
+- 🌱 I’m currently learning PostPreSQL, Python, Javascript, REACT, Fastify, Drizzle, ...
 
 
 <!---
